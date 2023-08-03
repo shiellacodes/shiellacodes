@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shiellacodes
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning **Javascript**
