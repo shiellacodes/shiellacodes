@@ -1,6 +1,6 @@
 Hi I'm shiellacodes
 =============================
-*   📚  I'm currently studying Computer Science at FEU Institute of Technology.
+*   📚  I'm currently studying Computer Science at FEU Institute of Technology
 *   💻  See my portfolio at [shiellacodes.com](http://shiellacodes.com)
 *   🧠  I'm learning **JavaScript**, **jQuery** and **ReactJS**
 *   🤍  I enjoy learning web development
