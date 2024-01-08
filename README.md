@@ -1,4 +1,4 @@
-Hi 👋 My name is shiellacodes
+Hi I'm shiellacodes
 =============================
 *   📚  I'm currently studying Computer Science at FEU Institute of Technology.
 *   💻  See my portfolio at [shiellacodes.com](http://shiellacodes.com)
