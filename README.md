@@ -6,5 +6,5 @@ Hi 👋 My name is shiellacodes
 *   🤍  I enjoy learning web development
 
 *   # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shiellacodes&theme=city_light&hide_border=false)<br/>
+<a href="http://www.github.com/shiellacodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiellacodes&stroke=14b8a6&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
